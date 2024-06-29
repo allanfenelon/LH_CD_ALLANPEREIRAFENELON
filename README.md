@@ -12,23 +12,16 @@ Você foi alocado em um time da Indicium contratado por um estúdio de Hollywood
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter as seguintes bibliotecas instaladas:
-
-- numpy==1.26.4
-- pandas==2.2.2
-- matplotlib==3.9.0
-- seaborn==0.13.2
-- scikit-learn==1.5.0
-- xgboost==2.0.3
+Antes de começar, certifique-se de ter as bibliotecas que foram usadas na implementação no arquivo .ipynb. São bibliotecas usuais na análise descritiva dos dados e de modelagem.
 
 ## Instalação
 
 1. Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/allanfenelon/projeto_allan.git
-cd projeto_allan
-pip install numpy==1.26.4 pandas==2.2.2 matplotlib==3.9.0 seaborn==0.13.2 scikit-learn==1.5.0 xgboost==2.0.3
+git clone https://github.com/allanfenelon/LH_CD_ALLANPEREIRAFENELON.git
+cd LH_CD_ALLANPEREIRAFENELON
+pip install -r requirements.txt
 ```
 ## Execução
 
